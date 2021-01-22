@@ -1,7 +1,7 @@
 # Weather Progressive Web Application
 ![Weather Data](https://i.imgur.com/3csowzj.png)
 
-### [Live Site](https://inspiring-bhaskara-d21f88.netlify.app)
+### [Live Site](https://elegant-roentgen-6ba8ee.netlify.app)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
